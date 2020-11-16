@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/project-service-react.iml" filepath="$PROJECT_DIR$/.idea/project-service-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-service-java.iml" filepath="$PROJECT_DIR$/project-service-java.iml" />
     </modules>
   </component>
 </project>
