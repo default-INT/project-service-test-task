@@ -1,19 +1,18 @@
 # Screenshots
 
-Read all projects
+# Read all projects 
 ![read all](https://sun9-9.userapi.com/ljAaoNdAEsZlhdqfbnrUWfo5RobErmaH_BslUg/4wTI_C1Grgs.jpg)
 
-Add new project
+# Add new project
 ![add new project](https://sun9-32.userapi.com/FsLqZEflRLdgSY_VcNKri8-5-XcRfZN5LtZamg/hrvYvnAVzFw.jpg)
 
-
-Edit project
+# Edit project
 ![edit project](https://sun9-16.userapi.com/dmg3a2vNizuJx7KfEkV2jHgyAzC3ndE-IMD52g/17X_q3_7rOQ.jpg)
 
-Delete project
+# Delete project
 ![edit project](https://sun9-54.userapi.com/Bum7mCaCMfOk1N9oSLYhJa-iFVuzZPWTgjOFLw/HpGyk3xkX8g.jpg)
 
-Log in
+# Log in
 ![edit project](https://sun9-66.userapi.com/R4xZX9OCpGkrLCSz4nACNe5iUyWSAUq7Ka0kHA/nBaHMWZfEqY.jpg)
 
 # Getting Started with Create React App
