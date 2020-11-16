@@ -1,0 +1,36 @@
+header {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5vmin;
+    color: #69707a;
+}
+
+header .title {
+    padding: 1vmax;
+}
+
+header .util-btn {
+    display: flex;
+    align-items: center;
+}
+
+header .util-btn .add-btn {
+    margin-right: 1.5vw;
+    font-size: .6em;
+}
+
+header .log-menu {
+    display: flex;
+    padding: 1vmin;
+    border-left: #69707a solid 2px;
+}
+
+header .log-menu .username {
+    padding-right: .8vmax;
+}
+
+header .log-menu a:hover {
+    color: black;
+}

@@ -1,0 +1,69 @@
+
+.wrapper {
+    width: 100%;
+
+    font-size: .6em;
+}
+
+.wrapper .fragment {
+    display: flex;
+    flex-direction: column;
+    border-radius: .2rem ;
+    min-height: 200px;
+    min-width: 500px;
+    width: 60%;
+    margin: 1rem auto;
+    background: white;
+    padding: .8rem;
+}
+
+.fragment .name {
+    font-size: 3rem;
+    color: #4e73df;
+}
+
+.fragment .head {
+    display: flex;
+    border-bottom: 3px solid #4e73df;
+    justify-content: space-between;
+    align-items: end;
+    padding: .8em;
+}
+
+.fragment .info-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fragment .info-box .info {
+    flex-grow: 1;
+    padding: 1em;
+}
+
+.fragment .info-box .title {
+    color: #4e73df;
+    font-size: 1.5em;
+}
+
+.fragment .dates {
+    display: flex;
+    justify-content: space-around;
+    flex-grow: 1;
+}
+
+.fragment .info .info-item {
+    padding: .4rem;
+}
+
+.fragment .btn-controls {
+    padding: 1rem;
+}
+
+.fragment .btn-controls a {
+    display: inline-block;
+    margin-right: 1rem;
+    min-width: 4vw;
+    text-align: center;
+    padding: .5rem;
+}
+
